@@ -1,0 +1,5 @@
+ Charms: 100(lec) 50(pr) 20(test)
+ Defence Against the Dark Arts: - 70(pr) 10(test)
+ Potions: 20(lec) 120(pr) -
+ Transfiguration: 20(lec) 70(pr) 25(test)
+ Muggle Studies: 20(lec) - -
