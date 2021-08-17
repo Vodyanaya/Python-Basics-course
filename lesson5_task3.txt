@@ -1,0 +1,4 @@
+Sauron 1000000
+Gandalf 10
+Snow 1500
+Sulla 10000
